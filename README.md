@@ -26,6 +26,26 @@
 
 ---
 
+### Achievements and Participation
+
+<ul>
+  <li>
+     GirlScript Summer of Code 2020 Participant: GirlScript Summer of Code is the 3 month long Open Source program during summers conducted by GirlScript Foundation. Contributed on some open source projects.
+   </li>
+  <li>
+     ACM-ICPC Asia Dhaka Regional Onsite Contest 2019
+   </li> 
+   <li>
+     ACM-ICPC Asia Dhaka Regional Onsite Contest 2018
+   </li>
+   <li>
+     Microsoft-Young Bangla Internship Program 2018 Participant
+   </li>
+   <li>
+     BACS-BUBT National Programming Camp 2017
+   </li>
+</ul>
+
 <details>
   <summary>:zap: Github Stats</summary>
 

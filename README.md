@@ -1,6 +1,6 @@
 ### Hi there, I'm Shadman Ahmed
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fshadman-ahmed-chowdhury.github.io)](https://shadman-ahmed-chowdhury.github.io/)
+[![Website](https://img.shields.io/badge/Portofiio-UP-blue)](https://shadman-ahmed-chowdhury.github.io/)
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:shadmanchowdhury87@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 

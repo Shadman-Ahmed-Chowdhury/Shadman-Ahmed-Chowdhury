@@ -6,8 +6,7 @@
 
 ## I'm a Competitive Programmer and a Web Developer!
 
--   I’m currently working on an Online Judge Project using Django
--   I’m currently learning Django
+-   I’m currently learning PHP
 -   I’m looking to collaborate in web dev open source projects
 -   Fun fact: I love to play football.
 

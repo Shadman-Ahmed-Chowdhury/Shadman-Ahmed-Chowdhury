@@ -6,7 +6,8 @@
 
 ## I'm a Competitive Programmer and a Web Developer!
 
--   I’m currently learning PHP
+-   I'm currently working as an Associate Software Engineer at Brain Station 23 Ltd.
+-   I’m currently learning Laravel
 -   I’m looking to collaborate in web dev open source projects
 -   Fun fact: I love to play football.
 

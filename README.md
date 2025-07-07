@@ -1,4 +1,4 @@
-### Hi there, I'm Shadman Ahmed
+### Hi there, I'm Syed Shadman Ahmed Chowdhury
 
 [![Website](https://img.shields.io/badge/Portofiio-UP-blue)](https://shadman-ahmed-chowdhury.github.io/)
 

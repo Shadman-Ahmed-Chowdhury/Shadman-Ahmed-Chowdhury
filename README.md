@@ -4,12 +4,12 @@
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:shadmanchowdhury87@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-## I'm a Competitive Programmer and a Web Developer!
+## I'm a Muslim | Software Engineer | Minimalist
 
--   I'm currently working as an Associate Software Engineer at Brain Station 23 Ltd.
--   I’m currently learning Laravel
+-   I'm currently working as an Senior Software Engineer at Brain Station 23 Ltd.
+-   I’m currently learning Python, Django
 -   I’m looking to collaborate in web dev open source projects
--   Fun fact: I love to play football.
+-   Hobby: I love to play football.
 
 ### Languages and Tools:
 
@@ -31,8 +31,17 @@
 ### Achievements and Participation
 
 <ul>
+    <li>
+     Best Mentor (PHP Stack) on Learnathon 3.0
+   </li>
+   <li>
+     AWS Certified Cloud Practitioner 2024
+   </li>
+   <li>
+      Certified Vuejs Developer 2022
+   </li>
   <li>
-     GirlScript Summer of Code 2020 Participant: GirlScript Summer of Code is the 3 month long Open Source program during summers conducted by GirlScript Foundation. Contributed on some open source projects.
+     GirlScript Summer of Code 2020
    </li>
   <li>
      ACM-ICPC Asia Dhaka Regional Onsite Contest 2019
